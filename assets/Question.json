@@ -1,0 +1,52 @@
+[
+    {
+        "question":"________is used to create immutable stylesheet references",
+        "options": ["stylesheet", "Interaction manager", "Redux", "None"],
+        "answer":"stylesheet"
+    },
+    {
+        "question":"To update react native with latest version what will you use?",
+        "options": ["react-native init", "react-native upgrade", "Both", "None"],
+        "answer":"None"
+    },
+    {
+        "question":"________is used to create immutable stylesheet references",
+        "options": ["stylesheet", "Interaction manager", "Redux", "None"],
+        "answer":"stylesheet"
+    },
+    {
+        "question":"To update react native with latest version what will you use?",
+        "options": ["react-native init", "react-native upgrade", "Both", "None"],
+        "answer":"None"
+    },
+    {
+        "question":"________is used to create immutable stylesheet references",
+        "options": ["stylesheet", "Interaction manager", "Redux", "None"],
+        "answer":"stylesheet"
+    },
+    {
+        "question":"To update react native with latest version what will you use?",
+        "options": ["react-native init", "react-native upgrade", "Both", "None"],
+        "answer":"None"
+    },
+    {
+        "question":"________is used to create immutable stylesheet references",
+        "options": ["stylesheet", "Interaction manager", "Redux", "None"],
+        "answer":"stylesheet"
+    },
+    {
+        "question":"To update react native with latest version what will you use?",
+        "options": ["react-native init", "react-native upgrade", "Both", "None"],
+        "answer":"None"
+    },
+    {
+        "question":"________is used to create immutable stylesheet references",
+        "options": ["stylesheet", "Interaction manager", "Redux", "None"],
+        "answer":"stylesheet"
+    },
+    {
+        "question":"To update react native with latest version what will you use?",
+        "options": ["react-native init", "react-native upgrade", "Both", "None"],
+        "answer":"None"
+    }
+]
