@@ -118,12 +118,7 @@ const App = () => {
           <Text>Total Wrong: {wrongAnswer}</Text>
 
           <TouchableOpacity
-            style={{
-              padding: 10,
-              borderRadius: 5,
-              backgroundColor: 'green',
-              marginTop: 70,
-            }}
+            style={styles.RestartButton}
             onPress={() => {
               setNextQuestion(false);
               setDisplayQuesIndex(0);
@@ -187,6 +182,12 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     borderRadius: 15,
     justifyContent: 'center',
+  },
+  RestartButton: {
+    padding: 10,
+    borderRadius: 5,
+    backgroundColor: 'green',
+    marginTop: 70,
   },
 });
 
