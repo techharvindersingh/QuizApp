@@ -1,6 +1,5 @@
 /**
  * Sample Quiz App
- * By GeekyAnts
  *
  * @format
  * @flow strict-local
