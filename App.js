@@ -103,7 +103,9 @@ const App = () => {
                   }, 2000);
                 }
               }}>
-              <Text style={{fontSize: 18, alignSelf: 'center'}}>{item}</Text>
+              <Text style={{fontSize: 18, alignSelf: 'center', color: '#333'}}>
+                {item}
+              </Text>
             </TouchableOpacity>
           ))}
         </View>
